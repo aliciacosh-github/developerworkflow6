@@ -3,11 +3,11 @@ phrase:
   project_id: e34195000f8d6ce264d7200050b14086
   push:
     sources:
-    - file: ./resources/<locale_name>/en (3).json
+    - file: ./<locale_name>/.json
       params:
         file_format: simple_json
   pull:
     targets:
-    - file: ./resources/<locale_name>/en (3)json
+    - file: ./<locale_name>/.json
       params:
         file_format: simple_json
