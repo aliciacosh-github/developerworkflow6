@@ -1,6 +1,6 @@
 phrase:
   access_token: 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
-  project_id: e34195000f8d6ce264d7200050b14086
+  project_id: 89209c851abf4b64b9b17aeefbaaf9d5
   push:
     sources:
     - file: ./<locale_name>/.json
